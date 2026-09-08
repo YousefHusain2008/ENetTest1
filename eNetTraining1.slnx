@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="eNetTraining1/eNetTraining1.vcxproj" Id="72470190-4521-44a7-9761-35ad81b8279a" />
+</Solution>
